@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\bin\Debug\net6.0\helloConsole.exe
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\bin\Debug\net6.0\helloConsole.deps.json
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\bin\Debug\net6.0\helloConsole.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\bin\Debug\net6.0\helloConsole.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\bin\Debug\net6.0\helloConsole.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\refint\helloConsole.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\helloConsole.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\helloConsole\obj\Debug\net6.0\ref\helloConsole.dll
