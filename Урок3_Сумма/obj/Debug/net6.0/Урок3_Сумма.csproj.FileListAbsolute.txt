@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\bin\Debug\net6.0\Урок3_Сумма.exe
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\bin\Debug\net6.0\Урок3_Сумма.deps.json
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\bin\Debug\net6.0\Урок3_Сумма.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\bin\Debug\net6.0\Урок3_Сумма.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\bin\Debug\net6.0\Урок3_Сумма.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\refint\Урок3_Сумма.dll
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.pdb
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\Урок3_Сумма.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Все уроки\C#\Урок3_Сумма\obj\Debug\net6.0\ref\Урок3_Сумма.dll
