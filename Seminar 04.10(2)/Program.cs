@@ -1,13 +1,12 @@
-﻿/*
-Console.Clear();
-string f(int a, int b)
-{
-    if (a > b)
-        return ">";
+﻿Console.Clear();
+int n = new Random().Next(10, 100); // ???
+int n1 = n / 10;
+int n2 = n % 10;
+Console.WriteLine($"Сгенерированное число: {n}");
 
-    return "<";
-}
-
-Console.WriteLine(f(5, 7));
-так ставятся коменты
-*/ 
+if (n1 > n2)
+    Console.WriteLine(n1);
+else if (n1 < n2)
+    Console.WriteLine(n2);
+else
+    Console.WriteLine("=");
