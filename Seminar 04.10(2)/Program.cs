@@ -1,15 +1,12 @@
 ﻿// Функции, процедура
 
 Console.Clear();
-void f(ref int x, int y=0) // процедура
+string f(int a, int b) // функция
 {
-    x = x + 10;
+    if (a > b)
+        return ">";
+        
+    return "<";
 }
 
-
-int n = 5;
-Console.WriteLine(n);
-f(ref n);
-Console.WriteLine(n);
-// Сколько значений мы передаем, столько мы и принимаем
-// Сколько значений мы принимаем, столько мы и передаем
+Console.WriteLine(f(7, 5));
