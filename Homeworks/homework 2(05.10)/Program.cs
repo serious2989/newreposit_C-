@@ -1,28 +1,38 @@
-﻿// Задача 10. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-// (+проверка является ли число трехзначным)
+﻿//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
-Console.Write("Напишите трехзначное число: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int numberthree=DigitNumber(num);// Проверка трехзначного числа
-if (numberthree ==3)
-   {
-    int result = num / 10 % 10; // Находим вторую цифру числа
-    Console.WriteLine("Второе число "+ num + " - " + result);
-   }
-else
-   {
-    Console.WriteLine("Внимание "+ num + " это не трехзначное число" );
-   }
+int number = ReadInt("Введите число: ");
+int count = number.ToString().Length;
+Console.Write(MakeArray(number, count));
 
 
-int DigitNumber (int num)// Function to find number of digit
+int ReadInt(string message)
+
 {
-int numberthree=0;
-double count = num;
-while (count>=1)
-   {
-    count=count/10;
-    numberthree++;
-   }
-return numberthree;
+    Console.Write(message);
+    return Convert.ToInt32(Console.ReadLine());
+}
+
+
+int MakeArray(int a, int b) //  Функция принимает число введенное пользователем, количество символов,
+                           //  и выводит третью цифру числа. Если 3 цифры нет, сообщает и выводит 0.
+
+{
+
+int result = 0;
+    if (b < 3)
+    {
+        Console.Write("Третьей цифры нет, будет ");
+    }
+    else
+    {
+        int c = 1;
+        for (int i = b; i > 3; i--)
+        {
+            c = c * 10;
+        }
+
+        result = (a / c) % 10;
+    }
+return result;
+
 }
